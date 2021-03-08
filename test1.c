@@ -17,6 +17,7 @@ int main(int argc, char *argv[])
 	printf("hello world!\n");
 	printf("hello hupanlong\n");
 	printf("hello linux\n");
+	printf("test2\n");
 	return 0;
 }
 
